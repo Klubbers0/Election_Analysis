@@ -1,6 +1,6 @@
 # Election_Analysis
 
-##Project Overview
+###Project Overview
 A Colorad Board of Elections employee has given me the following tasks to complete an election adutio of a recent local congressional election.
 
 Total number of votes cast:
