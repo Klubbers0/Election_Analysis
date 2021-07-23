@@ -1,6 +1,6 @@
 # Election_Analysis
 
-###Project Overview
+### Project Overview
 A Colorad Board of Elections employee has given me the following tasks to complete an election adutio of a recent local congressional election.
 
 Total number of votes cast:
@@ -15,11 +15,11 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
-##Resources
+## Resources
 -Data Source: election_results.csv
 -Software: Python 3.7.6, Visual Studio Code 1.38.1
 
-##Summary
+## Summary
 The analysis of the election shows that:
 -There were 369,111 votes cast in the election
 -The Candidates were:
