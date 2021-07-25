@@ -3,8 +3,9 @@
 ### Project Overview
 A Colorad Board of Elections employee has given me the following tasks to complete an election aduit of a recent local congressional election.
 
-Election Results
+## Election Results
 
+![pic1](https://github.com/Klubbers0/Election_Analysis/blob/4e452b035691adb74badfdfe24fe6b8de978430c/Resources/readme2.PNG)
 
 ## Resources
 * Data Source: election_results.csv
@@ -16,3 +17,4 @@ This script can be modified and used for any election by changing the input data
 The following code could be altered to include state specific results in a country wide or presidental election.
 ![pic2](https://github.com/Klubbers0/Election_Analysis/blob/ea1c9c2e3c627a56bba148d5bd15312894c9c211/Resources/Readme.PNG)
 
+https://github.com/Klubbers0/Election_Analysis/blob/4e452b035691adb74badfdfe24fe6b8de978430c/Resources/readme2.PNG
