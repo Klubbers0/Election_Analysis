@@ -30,4 +30,4 @@ Winning Percentage: 73.8%
 -Software: Python 3.7.6, Visual Studio Code 1.38.1
 
 ## Election Audit Summary
-This script can be modified and used for any election, by changing the input data from other elections. Additional information such as gender, or age can be added to the data set and code, to be included in the data analysis. This code can also be modified and used for larger scale elections, such as a presidental, where indvidual state specific voting information can be added. 
+This script can be modified and used for any election by changing the input data from other elections. Additional information such as gender, or age can be added to the data set and code, to be included in the data analysis. This code can also be modified and used for larger scale elections, such as a presidental, where indvidual state specific voting information can be added. 
